@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-webrtcfnsapp-dev-90115-authRole",
+      "UnauthRoleArn": "arn:aws:iam::914374409233:role/amplify-webrtcfnsapp-dev-90115-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::914374409233:role/amplify-webrtcfnsapp-dev-90115-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-webrtcfnsapp-dev-90115-deployment",
+      "UnauthRoleName": "amplify-webrtcfnsapp-dev-90115-unauthRole",
+      "StackName": "amplify-webrtcfnsapp-dev-90115",
+      "StackId": "arn:aws:cloudformation:us-east-1:914374409233:stack/amplify-webrtcfnsapp-dev-90115/a2aa7c10-bb25-11ee-ada5-128056351db5",
+      "AmplifyAppId": "d3ev7vbs00cff3"
+    },
+    "categories": {
+      "auth": {
+        "webrtcfnsapp81aa839c": {}
+      }
+    }
+  }
+}
